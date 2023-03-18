@@ -1,7 +1,7 @@
-package com.example.NessLibrary.controller;
+package com.example.LibraryRestAPI.controller;
 
-import com.example.NessLibrary.model.Book;
-import com.example.NessLibrary.repository.BookRepository;
+import com.example.LibraryRestAPI.model.Book;
+import com.example.LibraryRestAPI.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

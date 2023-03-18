@@ -1,6 +1,6 @@
-package com.example.NessLibrary.repository;
+package com.example.LibraryRestAPI.repository;
 
-import com.example.NessLibrary.model.Book;
+import com.example.LibraryRestAPI.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

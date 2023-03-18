@@ -1,4 +1,4 @@
-package com.example.NessLibrary.model;
+package com.example.LibraryRestAPI.model;
 
 import jakarta.persistence.*;
 
